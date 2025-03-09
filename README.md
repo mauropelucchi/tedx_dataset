@@ -24,7 +24,7 @@ The dataset is composed by 5 CSV files:
 
 # MIT License
 
-Copyright (c) 2024 Mauro Pelucchi
+Copyright (c) 2025 Mauro Pelucchi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
