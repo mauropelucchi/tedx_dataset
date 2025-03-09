@@ -1,5 +1,5 @@
 # TED Talks
-TEDx Dataset contains information about 6,300k audio-video recordings of TED Talks uploaded to the official TED.com website (update to 2024/05/01).
+TEDx Dataset contains information about 7,900k audio-video recordings of TED Talks uploaded to the official TED.com website (update to 2025/03/09).
 The dataset is obtained with a scraper based on Selenium Web Driver\APIs for accademic and teaching purpose.
 The data and the scraper has been scraped from the official TED Website and is available under the MIT license.
 
